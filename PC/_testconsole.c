@@ -1,4 +1,5 @@
-/* Testing module for multi-phase initialization of extension modules (PEP 489)
+/*
+ Testing module for multi-phase initialization of extension modules (PEP 489)
  */
 
 #ifndef Py_BUILD_CORE_BUILTIN
